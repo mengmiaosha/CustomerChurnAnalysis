@@ -1,4 +1,4 @@
-# Zooplus Customer Churn Analysis and Prediction Report
+# Pet Industry Customer Churn Analysis and Prediction Report
 
 ---
 
